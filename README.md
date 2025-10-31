@@ -6,6 +6,7 @@ A Human Resource Application design is given in Figure 1, and the partial code f
 
 
 ***How would you improve this code ?***
+Refactor the code to make it 'better'
 
 ***Using Gen-AI***
 
